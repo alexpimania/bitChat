@@ -1,0 +1,2 @@
+# bitChat
+decentralised encrypted messaging
